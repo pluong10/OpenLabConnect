@@ -1,6 +1,7 @@
 {
-  "name": "openAim",
+  "name": "openlab-connect",
   "version": "0.1.0",
+  "license": "Unlicense",
   "devDependencies": {
     "apidoc": "^0.14.0",
     "del": "^2.2.0",

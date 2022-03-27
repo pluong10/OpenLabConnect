@@ -33,3 +33,7 @@ The open source is to interface with analyzer machine in order to automatically 
 *  Project members:
     * Dev: Trung Tran, Tin Pham, Ninh Pham, Hung Bui, Ha Le
     * QC: Hoa Tran
+
+### License
+
+Unlicensed aka Public Domain. See [/LICENSE](https://github.com/OpenLabConnect/OpenLabConnect/blob/master/LICENSE) for more information.
